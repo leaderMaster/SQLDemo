@@ -8,7 +8,7 @@ SQL * Loader 将数据从外部文件加载到 Oracle 数据库表中, 对数据
 
 ## 2.1. SQL * Loader 原理图
 
-<img src="images/sqlldr/原理图.gif" alt="原理图" style="zoom:69%;" />
+<img src="images/SQL*Loader/原理图.gif" alt="原理图" style="zoom:69%;" />
 
 ### 2.1.1. 控制文件(Control File)
 
@@ -1355,7 +1355,7 @@ SQL * Loader 根据控制文件中定义的数据类型读取数据文件中的�
 
 **语法**
 
-<img src="images/sqlldr/CHAR.gif" alt="CHAR" style="zoom:69%;" />
+<img src="images/SQL*Loader/CHAR.gif" alt="CHAR" style="zoom:69%;" />
 
 length: 表示 CHAR 的长度, 不指定则为 256
 
