@@ -1,0 +1,2 @@
+-- 解除锁定账户
+ALTER USER SH ACCOUNT UNLOCK;
